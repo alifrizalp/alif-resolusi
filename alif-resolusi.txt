@@ -1,3 +1,5 @@
 Alif Resolusi
 - php
 - javascript
+- react js
+- python
